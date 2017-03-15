@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fb">FBActivity</string>
+    <string name="title_activity_split_bill">SplitBillActivity</string>
+    <string name="app_id">1506471932977294</string>
+    <string name="demo_list_header_text">\nCongratulations! you have successfully authenticated and your token is: %s\n\nTest the following functions of the api!\n</string>
+    <string name="products">Products!</string>
+    <string name="time_estimates">Time Estimates!</string>
+    <string name="price_estimates">Price Estimates!</string>
+    <string name="history_v1">History! (v1)</string>
+    <string name="history_v1_1">History! (v1.1)</string>
+    <string name="me">Me!</string>
+    <string name="endpoint_list_header_text">Welcome to the %s endpoint!</string>
+    <string name="endpoint_list_result_text">Here is the result of a call to %s:</string>
+</resources>
